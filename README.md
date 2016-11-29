@@ -1,11 +1,22 @@
-## Stephen Gregory
+# Stephen Gregory
+#### `Junior Full Stack Web Developer`
 
-I'm an ex-Actor turned Junior Full Stack Web Developer. Stay with me. Once I decided it was time to put acting to bed, I had one rule, it had to be for something I would love just as much; enter ~~stage left~~ Coding! I recently put myself through the infamously tough Makers Academy course in web development and became a new-dad at the same time. I now don't require sleep and I am looking to become a Junior Developer in the Tyne & Wear area.
+I'm an ex-Actor turned Junior Full Stack Web Developer. Stay with me. Once I decided it was time to put acting to bed, I had **one rule**, it had to be for something I would love just as much; enter ~~stage left~~ Coding! I recently put myself through the infamously tough Makers Academy course in web development and became a new-dad at the same time. I now don't require sleep and I am looking to become a Junior Developer in the Tyne & Wear area.
 
-## Skills
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [stephengregory.co.uk](https://stephengregory.co.uk)
+***
+
+
+## Projects
+## <a name="projects">Projects</a>
+
+
+Project table to be added here
+
+
+## <a name="skills">Skills</a>
 
 #### This Skill
-
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
@@ -13,7 +24,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Evidence
 
 #### Another Skill
-
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
@@ -21,8 +31,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
 
+## <a name="education">Education</a>
 #### Makers Academy (September 2016 - December 2016)
 
 - Curiosity and hungry passion for code
@@ -37,23 +47,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - The Northern Region’s Theatre Training Ensemble
 - National Training Award
 
-#### Redcar & Cleveland College (September 2006 - July 2008)
+#### Redcar & Cleveland College (September 2004 - July 2008)
 
 - Level 2 NVQ in Plumbing (Domestic)
 - Level 2 Certificate in Basic Plumbing Studies
-
-#### Redcar & Cleveland College (September 2004 - July 2006)
-
 - Level 2 BTEC First Diploma in Media (Merit) - Animation
 - Level 2 BTEC First Certificate in Media Animation
 
-#### Any other qualifications
 
-## Experience
+## <a name="experience">Experience</a>
 
-**Northumbrian Water** *Water Sampler* (September 2012 – September 2016)
-
-Having worked for Northumbrian Water briefly on a short term contract, I was rehired soon after to become a member of the scientific sampling team, and have since worked as a Sampler on several occasions, for long periods of time. My main duties were to visit rural sample taps, and selected domestic properties, and carry out a series of stringent tests to determine the quality of the water.
+**Northumbrian Water** *Water Sampler* (September 2012 – September 2016) Having worked for Northumbrian Water briefly on a short term contract, I was rehired soon after to become a member of the scientific sampling team, and have since worked as a Sampler on several occasions, for long periods of time. My main duties were to visit rural sample taps, and selected domestic properties, and carry out a series of stringent tests to determine the quality of the water.
 
 **Various Theatre Companies** *Actor* (November 2012 – February 2015)
 Since completing InterACT, an apprenticeship style training program for actors, I have worked regularly for different theatre companies throughout the United Kingdom, as well as the BBC.
@@ -79,5 +83,7 @@ As a TAL Team Leader, it was my responsibility to ensure the quality and deliver
 **Steve Briggs Plumbing & Heating** *Apprentice Plumber* (September 2006 – August 2008)
 As an apprentice, I learnt all aspects of plumbing and skills from peripheral trades. These included:- maintenance, repair, fault finding, wiring, tiling, soldering, brick work, installation of plumbing components, heating systems and bathrooms. Each day brought huge responsibility and confidence in my work, as the majority of tasks were performed individually to increase work rate. This meant being independent, resourceful and self motivated.
 
-#### Interests!
+
+## <a name="interests">Interests!</a>
+
 I enjoy surfing as used to live very near one of Britain’s top surf spots (Saltburn)! I also enjoy attempting DIY on almost anything. At school I had drumming tuition, but now play for leisure in my spare time. Podcasts are life.
