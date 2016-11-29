@@ -7,10 +7,7 @@ I'm an ex-Actor turned Junior Full Stack Web Developer. Stay with me. Once I dec
 ***
 
 
-## Projects
 ## <a name="projects">Projects</a>
-
-
 Project table to be added here
 
 
