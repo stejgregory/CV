@@ -1,42 +1,42 @@
 # Stephen Gregory
-#### `Junior Full Stack Web Developer`
+#### Junior Full Stack Web Developer
 
-I'm an ex-Actor turned Junior Full Stack Web Developer. Stay with me. Once I decided it was time to put acting to bed, I had **one rule**, it had to be for something I would love just as much; enter ~~stage left~~ Coding! I recently put myself through the infamously tough Makers Academy course in web development and became a new-dad at the same time. I now don't require sleep and I am looking to become a Junior Developer in the Tyne & Wear area.
+I'm an ex-Actor turned Junior Full Stack Web Developer. Stay with me. Once I decided it was time to put acting to bed, I had one rule, it had to be for something I would love just as much; enter ~~stage left~~ Coding! I recently put myself through the infamously tough Makers Academy course in web development and became a new dad at the same time. I now don't require sleep and I am looking to become a Junior Developer in my favourite city and home, Newcastle. I am excited to work with a fun team on projects that we can be passionate about.
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [stephengregory.co.uk](https://stephengregory.co.uk)
 
 
-## <a name="projects">Projects</a>
-Project table to be added here
-
+## <a name="projects">Projects so far...</a>
+| Project   | Summary | Technologies | Group Size | Timeframe |
+|---        |---          |---           |:---:       |:---:             |
+| [Final Project](address) | TBC | TBC | TBC | 2 weeks |
+| [Boom Training](https://github.com/stejgregory/boom_training_webapp.git) | Webapp designed to connect users wanting to train together or in a bigger group. A calendar design for logging, advertising and rating training sessions. | Ruby on Rails, Javascript, HTML, SASS, RSpec/Capybara, Active Records | 6 | 1 week |
+| [AirBminusB](https://github.com/stejgregory/Airbminusb.git) | AirBnB clone to learn a basic framework and database skills | Ruby, Sinatra, RSpec/Capybara PostgreSQL | 4 Members | 1 week |
+| [ThermostatJS](https://github.com/stejgregory/thermostat_js.git) | A homepage for a smart thermostat controls | JavaScript, JQuery, Jasmine | 2 | 1 week |
+| [Yelp Clone](https://github.com/stejgregory/yelp_clone.git) | An introduction to rails by recreating yelp.com functionality | Ruby on Rails, RSpec/Capybara | TBC | 1 weeks |
 
 ## <a name="skills">Skills</a>
 
-#### This Skill
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Passion to Learn
+Makers Academy has taught me to grow, test and improve my skills whilst being responsible for my own learning. Each week we were set projects that meant learning new languages, tests and frameworks to suit the user specifications. This was less about mastering a language, but teaching us to flexible and fast, when learning a new one.
 
-- Experience
-- Achievements
-- Evidence
+#### Communication
+Having worked as an actor for several years, mainly in new writing, good communication in the theatrical process was the way to gain from everyones strengths. Creating an environment that would value team input made it easy to explore ideas and ultimately benefit the end performance. Acting is far more about listening, understanding and being invested, over *jazzhands*.
 
-#### Another Skill
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Love of Tech
+Obvious but true. Tech excites me. To work in the tech industry and be part of it's fast paced evolution is an honour. Creating something beautiful and user friendly is the ultimate job satisfaction, and to do it with like minded enthusiasts is a pleasure.
 
 
 ## <a name="education">Education</a>
 #### Makers Academy (September 2016 - December 2016)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Hunger for new languages and challenges in code
+- Independent learner, problem-solver, master of 'Google it!'
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Pair Programming
+- Ruby, Rails, Sinatra, HTML, CSS, Javascript, jQuery, Bootstrap, PostgreSQL
+- Rspec, Jasmine, Capybara
 
 #### Northumberland Theatre Company - InterACT (July 2009 - May 2010)
 
@@ -53,33 +53,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## <a name="experience">Experience</a>
 
-**Northumbrian Water** *Water Sampler* (September 2012 – September 2016) Having worked for Northumbrian Water briefly on a short term contract, I was rehired soon after to become a member of the scientific sampling team, and have since worked as a Sampler on several occasions, for long periods of time. My main duties were to visit rural sample taps, and selected domestic properties, and carry out a series of stringent tests to determine the quality of the water.
-
-**Various Theatre Companies** *Actor* (November 2012 – February 2015)
-Since completing InterACT, an apprenticeship style training program for actors, I have worked regularly for different theatre companies throughout the United Kingdom, as well as the BBC.
-
-**TRO Promotions** *Google Specialist* (October 2014 – January 2015)
+**TRO Promotions** *Google Specialist* **(October 2014 – January 2015)**
 Working in stores, I was an ambassador and friendly face representing Google. Most of my time was spent talking to potential customers, learning their lifestyle, and demonstrating to them how Google hardware and software can help them on a daily basis.
 
-**TED Staffing** *XBOX ONE Demonstrator* (March 2014 – June 2014)
+**TED Staffing** *XBOX ONE Demonstrator* **(March 2014 – June 2014)**
 I was positioned in store to engage customers with the experience of XBOX ONE. I worked to show them the ease, quality and power that Microsoft built into their next generation games console.
 
-**Northumbria University** *Ask4Help Assistant* (January 2014 – June 2014)
-As a member of a 4 strong nightshift team, it’s was our job to run the library and IT services smoothly, and be able deal with any nature of trouble should it surface. This can span from technical/printing issues to student welfare, meaning our knowledge between us had to match that of the 40 strong day staff.
+**Northumbria University** *Ask4Help Assistant* **(January 2014 – June 2014)**
+As a member of a 4 strong nightshift team, it’s was our job to run the library and IT services smoothly, and be able deal with any nature of trouble should it surface. This would span from technical issues to student welfare, meaning our knowledge between us had to match that of the 40 strong day staff.
 
-**RVI Newcastle Medical** *Records Clerk* (June 2012 – July 2012)
-My main duties involved pulling medical records for the outpatients department, organising and archiving the current filing system and re-filing called records back into the system. This meant being fastidious and motivated in a busy working environment.
+**Steve Briggs Plumbing & Heating** *Apprentice Plumber* **(September 2006 – August 2008)**
+As an apprentice, I learnt all aspects of plumbing and skills from peripheral trades. Each day brought huge responsibility and confidence in my work, as the majority of tasks were performed individually to increase work rate. This meant being independent, resourceful and self motivated.
 
-**Brief Candle Theatre** *Drama Facilitator* (January 2011 – March 2011)
-Through Brief Candle I gained valuable experience working with secondary school children. For each group of 60 students, we delivered an initial play about antisocial behaviour, followed by 4 interactive workshops that stimulated ideas of the consequences and possible solutions.
+#### Other Experience
+**Northumbrian Water** *Scientific Sampler* (September 2012 – September 2016) |
+**Various Theatre Companies** *Actor* (November 2012 – February 2015) |
+**Brief Candle Theatre** *Drama Facilitator* (January 2011 – March 2011) |
+**Theatre & Learning** *Presenter* (September 2010 – December 2010)**
 
-**Theatre & Learning** *Presenter* (September 2010 – December 2010)
-As a TAL Team Leader, it was my responsibility to ensure the quality and delivery of a touring theatre presentation. This including driving, liaising with clients, admin and safety.
-
-**Steve Briggs Plumbing & Heating** *Apprentice Plumber* (September 2006 – August 2008)
-As an apprentice, I learnt all aspects of plumbing and skills from peripheral trades. These included:- maintenance, repair, fault finding, wiring, tiling, soldering, brick work, installation of plumbing components, heating systems and bathrooms. Each day brought huge responsibility and confidence in my work, as the majority of tasks were performed individually to increase work rate. This meant being independent, resourceful and self motivated.
 
 
 ## <a name="interests">Interests!</a>
 
-I enjoy surfing as used to live very near one of Britain’s top surf spots (Saltburn)! I also enjoy attempting DIY on almost anything. At school I had drumming tuition, but now play for leisure in my spare time. Podcasts are life.
+I recently fell into Kung Fu lessons, after volunteering to be part of the dragon for Chinese New Year in Newcastle. I love listening to podcasts, especially ones from The Verge. Bus journeys, walking the in-laws dog and doing housework are all better because of podcasts! With the help of Google and YouTube, I am willing to attempt DIY on almost anything. I still enjoy surfing and skimboarding (even though I spend most of the time airborne) and one day... one day I will learn to play the guitar I was given as a birthday present.
