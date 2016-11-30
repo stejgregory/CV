@@ -11,9 +11,9 @@ I'm an ex-Actor turned Junior Full Stack Web Developer. Stay with me. Once I dec
 |---        |---          |---           |:---:       |:---:             |
 | [Final Project](address) | TBC | TBC | TBC | 2 weeks |
 | [Boom Training](https://github.com/stejgregory/boom_training_webapp.git) | Webapp designed to connect users wanting to train together or in a bigger group. A calendar design for logging, advertising and rating training sessions. | Ruby on Rails, Javascript, HTML, SASS, RSpec/Capybara, Active Records | 6 | 1 week |
-| [AirBminusB](https://github.com/stejgregory/Airbminusb.git) | AirBnB clone to learn a basic framework and database skills | Ruby, Sinatra, RSpec/Capybara PostgreSQL | 4 Members | 1 week |
+| [AirBminusB](https://github.com/stejgregory/Airbminusb.git) | AirBnB clone to learn a basic framework and database skills | Ruby, Sinatra, RSpec/Capybara PostgreSQL | 4 | 1 week |
 | [ThermostatJS](https://github.com/stejgregory/thermostat_js.git) | A homepage for a smart thermostat controls | JavaScript, JQuery, Jasmine | 2 | 1 week |
-| [Yelp Clone](https://github.com/stejgregory/yelp_clone.git) | An introduction to rails by recreating yelp.com functionality | Ruby on Rails, RSpec/Capybara | TBC | 1 weeks |
+| [Yelp Clone](https://github.com/stejgregory/yelp_clone.git) | An introduction to rails by recreating yelp.com functionality | Ruby on Rails, RSpec/Capybara | 2 | 1 weeks |
 
 ## <a name="skills">Skills</a>
 
