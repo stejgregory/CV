@@ -6,7 +6,6 @@ I'm an ex-Actor turned Junior Full Stack Web Developer. Stay with me. Once I dec
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [stephengregory.co.uk](https://stephengregory.co.uk)
 
 
-
 ## <a name="projects">Projects so far...</a>
 | Project   | Summary | Technologies | Group Size | Timeframe |
 |---        |---          |---           |:---:       |:---:             |
