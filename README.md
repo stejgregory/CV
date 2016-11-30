@@ -3,14 +3,19 @@
 
 I'm an ex-Actor turned Junior Full Stack Web Developer. Stay with me. Once I decided it was time to put acting to bed, I had one rule, it had to be for something I would love just as much; enter ~~stage left~~ Coding! I recently put myself through the infamously tough Makers Academy course in web development and became a new dad at the same time. I now don't require sleep and I am looking to become a Junior Developer in my favourite city and home, Newcastle. I am excited to work with a fun team on projects that we can be passionate about.
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [stephengregory.co.uk](https://stephengregory.co.uk)
+
+
+
 ## <a name="projects">Projects so far...</a>
 | Project   | Summary | Technologies | Group Size | Timeframe |
 |---        |---          |---           |:---:       |:---:             |
-| Final Project | TBC | TBC | TBC | 2 weeks |
-| Boom Training | Webapp designed to connect users wanting to train together or in a bigger group. A calendar design for logging, advertising and rating training sessions. | Ruby on Rails, Javascript, HTML, SASS, RSpec/Capybara, Active Records | 6 | 1 week |
-| AirBminusB | AirBnB clone to learn a basic framework and database skills | Ruby, Sinatra, RSpec/Capybara PostgreSQL | 4 | 1 week |
-| ThermostatJS | A homepage for a smart thermostat controls | JavaScript, JQuery, Jasmine | 2 | 1 week |
-| Yelp Clone | An introduction to rails by recreating yelp.com functionality | Ruby on Rails, RSpec/Capybara | 2 | 1 weeks |
+| [Final Project](address) | TBC | TBC | TBC | 2 weeks |
+| [Boom Training](https://github.com/stejgregory/boom_training_webapp.git) | Webapp designed to connect users wanting to train together or in a bigger group. A calendar design for logging, advertising and rating training sessions. | Ruby on Rails, Javascript, HTML, SASS, RSpec/Capybara, Active Records | 6 | 1 week |
+| [AirBminusB](https://github.com/stejgregory/Airbminusb.git) | AirBnB clone to learn a basic framework and database skills | Ruby, Sinatra, RSpec/Capybara PostgreSQL | 4 | 1 week |
+| [ThermostatJS](https://github.com/stejgregory/thermostat_js.git) | A homepage for a smart thermostat controls | JavaScript, JQuery, Jasmine | 2 | 1 week |
+| [Yelp Clone](https://github.com/stejgregory/yelp_clone.git) | An introduction to rails by recreating yelp.com functionality | Ruby on Rails, RSpec/Capybara | 2 | 1 weeks |
+
 
 ## <a name="skills">Skills</a>
 
@@ -67,7 +72,6 @@ As an apprentice, I learnt all aspects of plumbing and skills from peripheral tr
 **Various Theatre Companies** *Actor* (November 2012 – February 2015) |
 **Brief Candle Theatre** *Drama Facilitator* (January 2011 – March 2011) |
 **Theatre & Learning** *Presenter* (September 2010 – December 2010)
-
 
 
 ## <a name="interests">Interests!</a>
