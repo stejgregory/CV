@@ -65,11 +65,11 @@ As a member of a 4 strong nightshift team, it’s was our job to run the library
 **Steve Briggs Plumbing & Heating** *Apprentice Plumber* **(September 2006 – August 2008)**
 As an apprentice, I learnt all aspects of plumbing and skills from peripheral trades. Each day brought huge responsibility and confidence in my work, as the majority of tasks were performed individually to increase work rate. This meant being independent, resourceful and self motivated.
 
-#### Other Experience
+### Other Experience
 **Northumbrian Water** *Scientific Sampler* (September 2012 – September 2016) |
 **Various Theatre Companies** *Actor* (November 2012 – February 2015) |
 **Brief Candle Theatre** *Drama Facilitator* (January 2011 – March 2011) |
-**Theatre & Learning** *Presenter* (September 2010 – December 2010)**
+**Theatre & Learning** *Presenter* (September 2010 – December 2010)
 
 
 
