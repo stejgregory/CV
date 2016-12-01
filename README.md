@@ -19,7 +19,7 @@ I'm an ex-Actor turned Junior Full Stack Web Developer. Stay with me. Once I dec
 ## <a name="skills">Skills</a>
 
 #### Passion to Learn
-Makers Academy has taught me to grow, test and improve my skills whilst being responsible for my own learning. Each week we were set projects that meant learning new languages, tests and frameworks to suit the user specifications. This was less about mastering a language, but teaching us to flexible and fast, when learning a new one.
+Makers Academy has taught me to grow, test and improve my skills whilst being responsible for my own learning. Each week we were set projects that meant learning new languages, tests and frameworks to suit the user specifications. This was less about mastering a language, but teaching us to be flexible and fast, when learning a new one.
 
 #### Communication
 Having worked as an actor for several years, mainly in new writing, good communication in the theatrical process was the way to gain from everyones strengths. Creating an environment that would value team input made it easy to explore ideas and ultimately benefit the end performance. Acting is far more about listening, understanding and being invested, over *jazzhands*.
