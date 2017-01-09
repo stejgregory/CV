@@ -3,7 +3,7 @@
 
 I'm an ex-Actor turned Junior Full Stack Web Developer. Stay with me. Once I decided it was time to put acting to bed, I had one rule, it had to be for something I would love just as much; enter ~~stage left~~ Coding! I recently put myself through the infamously tough Makers Academy course in web development and became a new dad at the same time. I now don't require sleep and I am looking to become a Junior Developer in my favourite city and home, Newcastle. I am excited to work with a fun team on projects that we can be passionate about.
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [stejgregory.co.uk](https://stejgregory.co.uk)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [stejgregory.co.uk](http://stejgregory.co.uk)
 
 ## <a name="projects">Projects so far...</a>
 | Project   | Summary | Technologies | Group Size | Timeframe |
